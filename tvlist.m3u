@@ -54,3 +54,5 @@ CCTV17,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
 金鹰卡通,http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通
 哈哈炫动,http://itv.iptv1688.top:2016/itv.php?id=哈哈炫动
 优漫卡通,http://itv.iptv1688.top:2016/itv.php?id=优漫卡通
+澳门Macau卫视FHD,ChannelSDP="igmp://239.21.2.167:5002",TimeShiftURL="rtsp://150.138.8.132/PLTV/88888888/224/3221227295/517077830.smil
+星空卫视国际FHD,ChannelSDP="igmp://239.21.2.166:5002",TimeShiftURL="rtsp://150.138.8.132/PLTV/88888888/224/3221227426/517077244.smil
